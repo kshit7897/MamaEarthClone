@@ -5,7 +5,7 @@
 <p> Mamaearth <p>
 
 <h3> Contributors  -:</h3>
-<p> Karthik KJS , Sameer Varshney ,  Satya Shubham , Parikshit Chauhan <p>
+<p>  Parikshit Chauhan, Karthik KJS , Sameer Varshney ,  Satya Shubham <p>
 
 <h3> Build With  -:</h3>
 <p> Html, Css , Javascript </p>
